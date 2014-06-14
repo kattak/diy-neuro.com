@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+#homepage-title {
+    font-size: 60px;
+}
+
+#nav {
+    background-color: #012530;
+}
+
+
+
+#home-text {
+    font-size: 20px;
+}
+
+#divider {
+    height: 5px;
+    background-color: #ACBD86;
+    z-index: 9999;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
